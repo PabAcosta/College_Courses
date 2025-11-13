@@ -1,0 +1,50 @@
+# macOS system files
+.DS_Store
+
+# Compiled object files
+*.o
+*.obj
+
+# Static libraries
+*.a
+*.lib
+
+# Shared libraries
+*.so
+*.dll
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Build directories
+/build/
+/bin/
+/dist/
+/Debug/
+/Release/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# IDE/editor files
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-workspace
+*.sublime-project
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Git
+*.orig
+*.patch
